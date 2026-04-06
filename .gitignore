@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.env
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Logs and temp files
+*.log
+setup_log.txt
+
+# Uploaded files (user data, not source code)
+backend/data/uploads/
+data/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
